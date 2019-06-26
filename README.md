@@ -288,3 +288,4 @@ Creati un **NOU** modul in store care sa indeplineasca urmatoarele cerinte:
 * Pe pagina _Images_ afisati intr-o lista imaginile in sine
 * Datele trebuie cachuite. Nu trebuie sa se dea requestul de mai multe ori
 * Scrieti o functie care sa stearga ultima imagine/titlu din lista (doar in aplicatie, **NU** trebuie dat request la server)
+# Robert-vuex-1
